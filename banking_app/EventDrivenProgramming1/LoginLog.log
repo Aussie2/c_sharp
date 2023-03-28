@@ -1,0 +1,19 @@
+
+Test user logged in at  at 26/08/2022 09:57:55
+Time: 09:57:55 26/08/2022, Account number: 1000, Successful: True
+Test user logged out  at 26/08/2022 09:58:00
+Test user logged in at  at 26/08/2022 09:58:20
+Time: 09:58:20 26/08/2022, Account number: 1003, Successful: True
+Test user logged out  at 26/08/2022 09:58:24
+Test user logged in at  at 24/08/2022 10:00:44
+Time: 10:00:44 26/08/2022, Account number: 1000, Successful: True
+Test user logged out  at 26/08/2022 10:00:48
+Time: 10:00:56 26/08/2022, Account number: 1003, Successful: True
+Time: 10:03:26 26/08/2022, Account number: 1003, Successful: True
+Time: 10:39:31 26/08/2022, Account number: 1003, Successful: True
+Time: 11:21:38 26/08/2022, Account number: 1003, Successful: True
+Time: 11:23:03 26/08/2022, Account number: 1003, Successful: False
+Time: 11:24:17 26/08/2022, Account number: 1003, Successful: True
+Time: 10:24:58 28/09/2022, Account number: 1000, Successful: True
+Time: 22:48:18 28/03/2023, Account number: 12345, Successful: False
+Time: 22:53:53 28/03/2023, Account number: 1000, Successful: True
